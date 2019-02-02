@@ -1,6 +1,13 @@
-package com.company;
-
-public class Vector implements iCalculadora {
+/* package com.company;
+*
+*   @Author Luis Pedro Cuéllar - 18220 y Jaier Ramírez - 18099
+*   @Date   1/02/2019
+*   @Project    Hoja de Trabajo #2 / Algoritmos y Estructura de Base de Datos
+*
+*   Esta clase Calculadora implementa la interfaz iCalculadora y define todos los métodos
+*   de la interfaz. Esta clase son operaciones aritméticas básicas.
+*/
+public class Calculadora implements iCalculadora {
 
     double a;
     double b;
