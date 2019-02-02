@@ -8,6 +8,9 @@
  *   de la interfaz. Esta clase son métodos para hacer funcionar el Stack de forma adecuada.
  */
 
+/**
+ * @param <String>
+ */
 public class Stack<String> implements iPila<String> {
 
     private Vector<String> = new Vecto<>();

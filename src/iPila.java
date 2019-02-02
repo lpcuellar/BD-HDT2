@@ -7,6 +7,9 @@
  *   Esta clase es una interfaz para un Stack.
  */
 
+/**
+ * @param <E>
+ */
 public interface iPila<E> {
 
     public void push(E item);
